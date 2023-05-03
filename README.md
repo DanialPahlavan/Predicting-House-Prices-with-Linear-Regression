@@ -6,16 +6,16 @@ The dataset used in this project is the California Housing Prices dataset, which
 
 # Installation
 To run this project, you will need to have Python 3 and scikit-learn library installed. You can install scikit-learn using pip:
-'''
+```
 pip install scikit-learn
-'''
+```
 
 # Usage
 To run the project, simply run the following command:
 
-'''
+```
 python main.py
-'''
+```
 
 The output should show the accuracy score of the linear regression model.
 
